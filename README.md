@@ -121,7 +121,7 @@ https://github.com/UrveshThubrikar/Financial-Loan-Analysis-Project/blob/5ef579e0
 
 ### Python EDA
 
-(Add Python screenshot here)
+(https://github.com/UrveshThubrikar/Financial-Loan-Analysis-Project/blob/2aa4084997fcba93b1fa6ebb783b77f76bc6be87/Python%20EDA.png)
 
 ## 🚀 Future Improvements
 

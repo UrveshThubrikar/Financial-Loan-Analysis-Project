@@ -117,7 +117,7 @@ Performed:
 
 ### SQL Analysis
 
-
+https://github.com/UrveshThubrikar/Financial-Loan-Analysis-Project/blob/5ef579e02ff008448399d745a98274941c4bffff/SQL%20Analysis.png
 
 ### Python EDA
 

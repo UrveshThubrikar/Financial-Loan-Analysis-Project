@@ -113,11 +113,11 @@ Performed:
 
 ### Power BI Dashboard
 
-(Add dashboard screenshot here)
+(https://github.com/UrveshThubrikar/Financial-Loan-Analysis-Project/blob/b1d925cbf074da52f75e4cde1d4358e7520bc544/Dashboard.png)
 
 ### SQL Analysis
 
-https://github.com/UrveshThubrikar/Financial-Loan-Analysis-Project/blob/5ef579e02ff008448399d745a98274941c4bffff/SQL%20Analysis.png
+(https://github.com/UrveshThubrikar/Financial-Loan-Analysis-Project/blob/5ef579e02ff008448399d745a98274941c4bffff/SQL%20Analysis.png)
 
 ### Python EDA
 
@@ -131,7 +131,7 @@ https://github.com/UrveshThubrikar/Financial-Loan-Analysis-Project/blob/5ef579e0
 
 ## 👤 Author
 
-Name: Urvesh Sanjay Thubrikar
+### Name: URVESH SANJAY THUBRIKAR
 
 LinkedIn: https://www.linkedin.com/in/urvesh-thubrikar
 
